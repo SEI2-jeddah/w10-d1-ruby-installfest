@@ -9,7 +9,7 @@
 
 ## Install rbenv and ruby (Mac and Ubuntu)
 
-Run `ruby-script.sh` from your terminal inside this repository.
+Run `sh ruby-script.sh` from your terminal inside this repository.
 
 ## For Windows
 
