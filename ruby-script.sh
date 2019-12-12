@@ -67,9 +67,9 @@ else
 fi
 
 # install Ruby version
-rbenv install 2.6.3
+rbenv install 2.6.5
 # set Ruby version used globally
-rbenv global 2.6.3
+rbenv global 2.6.5
 
 # disable documentation generation for gem installations
 echo 'gem: --no-document' >> ~/.gemrc
